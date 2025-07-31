@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliffajars&label=Profile%20views&color=0e75b6&style=flat" alt="aliffajars" /> </p>
 
-- 🌱 I’m currently learning **Still learning and growing: currently focused on Laravel and Competitive Programming.**
+- 🌱 I’m currently learning **Laravel** and **Competitive Programming**.
 
-- 💬 Ask me about **Ask me about frontend stuff (especially Tailwind CSS), learning Laravel for backend, or anything about competitive programming.**
+- 💬 Ask me about **frontend stuff (especially Tailwind CSS), learning Laravel for backend, or anything about competitive programming.**
 
 - 📫 How to reach me **aliffajar05@gmail.com**
 
