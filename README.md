@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Laravel** and **Competitive Programming**.
 
-- 💬 Ask me about **frontend stuff (especially Tailwind CSS), learning Laravel for backend, or anything about competitive programming.**
+- 💬 Ask me about **Tailwind CSS, Laravel, or competitive programming.**
 
 - 📫 How to reach me **aliffajar05@gmail.com**
 
