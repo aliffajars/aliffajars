@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alif Fajar</h1>
-<h3 align="center">Frontend learner & explorer from Indonesia, always curious to create better digital interfaces.</h3>
+<h3 align="center">Fresh graduate focusing on frontend, always exploring new ideas.</h3>
 <img align="right" alt="Coding" width="400" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliffajars&label=Profile%20views&color=0e75b6&style=flat" alt="aliffajars" /> </p>
